@@ -1,0 +1,21 @@
+{
+    "name": "fnsoxt/weixinjs",
+    "description": "微信 js api",
+    "type": "library",
+    "keywords": ["weixin"," jssdk"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "fnsoxt",
+            "email": "fnsoxt@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "fnsoxt\\weixinjs\\": ""
+        }
+    }
+}
